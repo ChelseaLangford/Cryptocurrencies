@@ -12,4 +12,4 @@ The purpose of this analysis was to used an unspervised learning model and clust
 - The K-Means algorithm ran to make predictions of the K clusters for the cryptocurrency data
 
 ## Visualizing Results
-- A 3D scatter plot was created using the scatter_3d() function to plot the three clusters and visualize the cyptocurrency classifactoins formed based on the model
+- A 3D scatter plot was created using the scatter_3d() function to plot the three clusters and visualize the cyptocurrency classificatons formed based on the model
